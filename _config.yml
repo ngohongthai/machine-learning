@@ -34,9 +34,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-header_pages:
-  - about.markdown
-#
 exclude:
    - Gemfile
    - Gemfile.lock
