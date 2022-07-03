@@ -8,3 +8,5 @@ contents/c1-ml-basic/.DS_Store
 contents/.DS_Store
 *./DS_Store
 posts/.DS_Store
+.DS_Store
+_site/*
