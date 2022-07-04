@@ -23,7 +23,7 @@ email: ngohongthai.uet@gmail.com
 name: &name "Ngo Hong Thai"
 description: >- # this means to ignore newlines until "baseurl:"
   Road to Machine learning engineer.
-baseurl: "/machine-learning" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
 twitter_username: zorot91
